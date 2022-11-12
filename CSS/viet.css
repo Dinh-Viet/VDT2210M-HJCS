@@ -1,0 +1,23 @@
+body{
+    margin: 90px;
+}
+h1{
+    color: #8a2be2ff;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+ul{
+    color: lightcoral ;
+    width: 210px;
+    float: right;
+    list-style: none;
+}
+li{
+    font-size:18px ;
+    text-align: right;
+    line-height: 1.5;
+}
+p{
+    text-align: left;
+}
+
