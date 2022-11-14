@@ -1,5 +1,10 @@
 body{
     margin: 90px;
+    padding:35px;
+    background-color: pink;
+}
+img{
+    max-width: 50%
 }
 h1{
     color: #8a2be2ff;
@@ -7,7 +12,6 @@ h1{
     text-transform: capitalize;
 }
 ul{
-    color: lightcoral ;
     width: 210px;
     float: right;
     list-style: none;
@@ -20,4 +24,5 @@ li{
 p{
     text-align: left;
 }
+
 
